@@ -1,0 +1,22 @@
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    text-decoration: none;
+    padding: 30px;
+}
+
+.navbar-container .list-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(45,23,91, 0.8);
+}
+
+.navbar-container .list-container .container-2 {
+    display: flex;
+}

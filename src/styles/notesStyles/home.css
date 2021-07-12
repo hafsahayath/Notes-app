@@ -1,0 +1,14 @@
+.notebook-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    color: #2D175B;
+}
+
+.notebook-container h1 {
+    font-size: 8rem;
+    opacity: 0.9;
+}
+

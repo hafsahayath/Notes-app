@@ -1,0 +1,6 @@
+.note-item-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #2D175B;
+}

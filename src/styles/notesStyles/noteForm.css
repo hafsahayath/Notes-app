@@ -1,0 +1,46 @@
+.note-form-container {
+    background-color: rgba(178, 183, 210, 0.6);
+    border-radius: 10px;
+    padding: 30px;
+    margin-right: 40px;
+    margin-top: 30px;
+    color: #2D175B;
+    box-shadow: 0 2px 3px -1px #A6A5C7;
+}
+.note-form-container .note-form-control {
+    display: flex;
+    flex-direction: column;
+}
+
+.note-form-container h2 {
+    text-align: center;
+}
+
+.note-form-control input,
+.note-form-control textarea {
+    padding: 8px 10px;
+    border: 1px solid #B2B7D2;
+    background-color:  whitesmoke;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+
+.note-form-container .note-form-control .btn-div input {
+    background-color: #2D175B;
+    border: 1px solid #2D175B;
+    color:  #F2F2FB;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    padding: 10px 30px;
+}
+
+.note-form-control .btn-div {
+    align-self: center;
+}
+
+.note-form-container .note-form-control .btn-div input:hover {
+    background-color: #F2F2FB;
+    color: #2D175B;
+    font-weight: 600;
+}
